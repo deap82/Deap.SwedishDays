@@ -1,0 +1,6 @@
+*.suo
+Deap.SwedishDays/bin/
+Deap.SwedishDays/obj/
+SwedishDaysConsole/bin/
+SwedishDaysConsole/obj/
+packages/
